@@ -31,10 +31,10 @@
 </addon>
 
 <addon id="Matrix.repo" name="[COLOR lime]Matrix Repo[/COLOR] Repo" version="1.0.1" provider-name="Malcom77">
-    <extension point="xbmc.addon.repository" name="Mi repositorio">
-        <info>https://raw.githubusercontent.com/Malcom77/Matrix_repo/b24938b8e8b1564bd498baf13a069033c4991113/Repositorio/addons.xml?token=AH5S3EMBOJSEWILW37Q5ZHC4ZYJM2</info>
-        <checksum>https://raw.githubusercontent.com/Malcom77/Matrix_repo/b24938b8e8b1564bd498baf13a069033c4991113/Repositorio/addons.xml.md5?token=AH5S3EJJO3QE7DWR4GHTKHK4ZYJJS</checksum>
-        <datadir zip="true">https://raw.githubusercontent.com/Malcom77/Matrix_repo/master/Repositorio/</datadir>
+	<extension point="xbmc.addon.repository" name="Mi repositorio">
+        <info>https://raw.githubusercontent.com/Malcom77/Matrix_repo/master/Repositorio/addons.xml</info>
+        <checksum>https://raw.githubusercontent.com/Malcom77/Matrix_repo/master/Repositorio/addons.xml.md5</checksum>
+        <datadir zip="true">https://github.com/Malcom77/Matrix_repo/tree/master/Repositorio/repository.Mirepor/</datadir>
     </extension>
     <extension point="xbmc.addon.metadata">
         <summary>Matrix Repositorio</summary>
