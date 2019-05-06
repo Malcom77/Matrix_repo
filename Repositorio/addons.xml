@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addons>
-<addon id="plugin.video.Catoal"
-       name="[COLOR gold]Catoal[/COLOR][COLOR blue] 5[/COLOR].[COLOR yellow]4[/COLOR].[COLOR red]0[/COLOR]"
-       version="5.4.0"
-       provider-name="Catoal">
+<addon id="plugin.video.iberika"
+       name="iberika"
+       version="0.0.6"
+       provider-name="Iberika">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
     <import addon="script.module.beautifulsoup" version="3.2.1"/>
@@ -24,8 +24,8 @@
   </extension>
 
   <extension point="xbmc.addon.metadata">
-    <summary>Creado por Catoal</summary>
-    <description>Catoal 2017</description>
+    <summary>Iberika</summary>
+    <description></description>
     <platform>all</platform>
   </extension>
 </addon>
