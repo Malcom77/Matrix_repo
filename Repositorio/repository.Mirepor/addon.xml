@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="Matrix.repo" name="[COLOR lime]Matrix Repo[/COLOR] Repo" version="1.0.2" provider-name="Malcom77">
+<addon id="Matrix.repo" name="[COLOR lime]Matrix Repo[/COLOR] Repo" version="1.0.3" provider-name="Malcom77">
 	<extension point="xbmc.addon.repository" name="Matrix repo">
         <info>https://raw.githubusercontent.com/Malcom77/Matrix_repo/master/Repositorio/addons.xml</info>
         <checksum>https://raw.githubusercontent.com/Malcom77/Matrix_repo/master/Repositorio/addons.xml.md5</checksum>
